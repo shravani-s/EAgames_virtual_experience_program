@@ -1,0 +1,13 @@
+Unreal Game Engine will help us to take our game to new level, but there is no easy way to 'port' our existing two implementations to Unreal Engine. 
+Each Game Development Engine has its own ways of handling objects and actions. We will need to separate our code into individual objects and actions and recreate them using Unreal Engine's objects and actions. 
+
+Here are the steps that we will need to take:
+1.	Install Unreal Engine.
+2.	Launch Unreal Project Browser.
+3.	Choose Blueprint or C++ Template for our Vaxman C++ code.
+4.	Choose Desktop/Console or Mobile/Tablet.
+5.	Choose Max Quality or Scalable 2D/3D.
+6.	Store Project.
+7.	Open Project.
+
+These are the 7 easy steps to open our project in Unreal Game Engine.
